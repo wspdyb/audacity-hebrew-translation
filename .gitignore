@@ -6,3 +6,5 @@ he/po_batches/
 he/batches/
 he/po_tsv/
 *.pyc
+tools/
+installer/audacity_he.qm
