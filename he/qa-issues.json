@@ -1,0 +1,1552 @@
+{
+ "latin": [
+  [
+   "View project on audio.com",
+   "הצגת הפרויקט ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "View on audio.com",
+   "הצגה ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "View project on audio.com",
+   "הצגת הפרויקט ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "View on audio.com",
+   "הצגה ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Connect to your audio.com account",
+   "התחברות לחשבון audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Overture import character set:",
+   "ערכת תווים לייבוא Overture:",
+   [
+    "Overture"
+   ]
+  ],
+  [
+   "Import MEI layout",
+   "ייבוא פריסת MEI",
+   [
+    "MEI"
+   ]
+  ],
+  [
+   "Apply default typeface (Edwin) to imported projects",
+   "החלת הגופן המובנה (Edwin) על פרויקטים מיובאים",
+   [
+    "Edwin"
+   ]
+  ],
+  [
+   "OSC remote control",
+   "שליטה מרחוק ב־OSC",
+   [
+    "OSC"
+   ]
+  ],
+  [
+   "Complete your Audacity cloud setup with Audio.com",
+   "השלם את הגדרת הענן של Audacity עם Audio.com",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Audio Unit Effects",
+   "אפקטי Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Provides Audio Unit Effects support to Audacity",
+   "מוסיף ל־Audacity תמיכה באפקטי Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Audio Unit Generators",
+   "מחוללי Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Audio Unit Mixers",
+   "מיקסרי Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Audio Unit Music Effects",
+   "אפקטי מוזיקה של Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Audio Unit Panners",
+   "פאנרים של Audio Unit",
+   [
+    "Audio",
+    "Unit"
+   ]
+  ],
+  [
+   "Full-wave Rectifier (DC blocked)",
+   "מיישר גל מלא (ללא רכיב DC)",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "AM Radio",
+   "רדיו AM",
+   [
+    "AM"
+   ]
+  ],
+  [
+   "SBSMS Time / Pitch Stretch",
+   "מתיחת זמן / גובה צליל ב־SBSMS",
+   [
+    "SBSMS"
+   ]
+  ],
+  [
+   "Chebyshev Type II",
+   "צ׳בישב מסוג II",
+   [
+    "II"
+   ]
+  ],
+  [
+   "Performs IIR filtering that emulates analog filters",
+   "מבצע סינון IIR שמדמה מסננים אנלוגיים",
+   [
+    "IIR"
+   ]
+  ],
+  [
+   "View on audio.com",
+   "הצגה ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Audio shared to audio.com",
+   "השמע שותף ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Sharing audio to audio.com…",
+   "משתף שמע ב־audio.com…",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "The audio preview has been uploaded to audio.com",
+   "תצוגת השמע הועלתה ל־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Save to audio.com",
+   "שמירה ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Create an account on audio.com",
+   "יצירת חשבון ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Sign in to audio.com",
+   "התחברות ל־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Sign in successful! You’re good to go back to MuseScore Studio.",
+   "ההתחברות הצליחה! אפשר לחזור ל־MuseScore Studio.",
+   [
+    "Studio"
+   ]
+  ],
+  [
+   "Save to audio.com",
+   "שמירה ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "This will create a .zip file with information about your MuseScore Studio setup to help developers diagnose any problems you are having. You can inspect the contents of this file before sending it to anyone.",
+   "ייווצר קובץ ‎.zip עם מידע על התצורה של MuseScore Studio, שיעזור למפתחים לאבחן בעיות. אפשר לבדוק את תוכן הקובץ לפני שליחתו למישהו.",
+   [
+    "zip",
+    "Studio"
+   ]
+  ],
+  [
+   "Removing DC offset and Normalizing…\n",
+   "מסיר רכיב DC ומנרמל…\n",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Removing DC offset…\n",
+   "מסיר רכיב DC…\n",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Normalizing without removing DC offset…\n",
+   "מנרמל בלי להסיר רכיב DC…\n",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "‘;type tool’ effects cannot return audio from Nyquist.\n",
+   "אפקטי ‘;type tool’ אינם יכולים להחזיר שמע מ־Nyquist.\n",
+   [
+    "type",
+    "tool"
+   ]
+  ],
+  [
+   "‘;type tool’ effects cannot return labels from Nyquist.\n",
+   "אפקטי ‘;type tool’ אינם יכולים להחזיר תוויות מ־Nyquist.\n",
+   [
+    "type",
+    "tool"
+   ]
+  ],
+  [
+   "nyx_error returned from %1.\n",
+   "התקבלה שגיאת nyx_error מ־%1.\n",
+   [
+    "nyx",
+    "error"
+   ]
+  ],
+  [
+   "Nyquist returned nil audio.\n",
+   "Nyquist החזיר שמע ריק (nil).\n",
+   [
+    "nil"
+   ]
+  ],
+  [
+   "[Warning: Nyquist returned invalid UTF-8 string, converted here as Latin-1]",
+   "[אזהרה: Nyquist החזיר מחרוזת UTF-8 לא תקינה; הומרה כאן כ־Latin-1]",
+   [
+    "UTF",
+    "Latin"
+   ]
+  ],
+  [
+   "Your code looks like SAL syntax, but there is no ‘return’ statement.\nFor SAL, use a return statement such as:\n\treturn *track* * 0.1\nor for LISP, begin with an open parenthesis such as:\n\t(mult *track* 0.1)\n .",
+   "הקוד שלך נראה כמו תחביר SAL, אך אין בו הצהרת ‘return’.\nב־SAL יש להשתמש בהצהרת return כגון:\n\\treturn *track* * 0.1\nוב־LISP יש להתחיל בסוגר פותח, כגון:\n\\t(mult *track* 0.1)\n .",
+   [
+    "return",
+    "return",
+    "treturn",
+    "track",
+    "mult",
+    "track"
+   ]
+  ],
+  [
+   "GNU General Public License v2.0 or later",
+   "GNU General Public License v2.0 ואילך",
+   [
+    "GNU",
+    "General",
+    "Public",
+    "License"
+   ]
+  ],
+  [
+   "Benjamin Schwartz and Steve Daulton",
+   "Benjamin Schwartz ו־Steve Daulton",
+   [
+    "Benjamin",
+    "Schwartz",
+    "Steve",
+    "Daulton"
+   ]
+  ],
+  [
+   "Steve Daulton and Bill Wharrie",
+   "Steve Daulton ו־Bill Wharrie",
+   [
+    "Steve",
+    "Daulton",
+    "Bill",
+    "Wharrie"
+   ]
+  ],
+  [
+   "Dominic Mazzoni, David R. Sky and Steve Daulton",
+   "Dominic Mazzoni, David R. Sky ו־Steve Daulton",
+   [
+    "Dominic",
+    "Mazzoni",
+    "David",
+    "Sky",
+    "Steve",
+    "Daulton"
+   ]
+  ],
+  [
+   "Risset drum",
+   "תוף Risset",
+   [
+    "Risset"
+   ]
+  ],
+  [
+   "~a~%Sample Rate: ~a Hz. Sample values on ~a scale. ~a.~%~aLength processed: ~a ~\n                  samples, ~a seconds.~%Peak amplitude: ~a (linear) ~a dB.  Unweighted RMS: ~a dB.~%~\n                  DC offset: ~a~a",
+   "~a~%קצב דגימה: ~a Hz. ערכי דגימות בקנה מידה ~a. ~a.~%~aאורך שעובד: ~a ~\n                  דגימות, ~a שניות.~%משרעת שיא: ~a (לינארי) ~a dB.  RMS לא משוקלל: ~a dB.~%~\n                  היסט DC: ~a~a",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "<b>Sample Rate:</b> &nbsp;&nbsp;~a Hz.",
+   "<b>קצב דגימה:</b> &nbsp;&nbsp;~a Hz.",
+   [
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "<b>Peak Amplitude:</b> &nbsp;&nbsp;~a (linear) &nbsp;&nbsp;~a dB.",
+   "<b>משרעת שיא:</b> &nbsp;&nbsp;~a (לינארי) &nbsp;&nbsp;~a dB.",
+   [
+    "nbsp",
+    "nbsp",
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "<b>RMS</b> (unweighted): &nbsp;&nbsp;~a dB.",
+   "<b>RMS</b> (לא משוקלל): &nbsp;&nbsp;~a dB.",
+   [
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "<b>DC Offset:</b> &nbsp;&nbsp;~a",
+   "<b>היסט DC:</b> &nbsp;&nbsp;~a",
+   [
+    "DC",
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "~a linear, &nbsp;&nbsp;~a dB.",
+   "~a לינארי, &nbsp;&nbsp;~a dB.",
+   [
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "Left: ~a lin, ~a dB | Right: ~a linear, &nbsp;&nbsp;~a dB.",
+   "שמאל: ~a לינ׳, ~a dB | ימין: ~a לינארי, &nbsp;&nbsp;~a dB.",
+   [
+    "nbsp",
+    "nbsp"
+   ]
+  ],
+  [
+   "Produced with <span>Sample Data Export</span> for\n<a href=\"~a\">Audacity</a> by Steve\nDaulton",
+   "הופק באמצעות <span>ייצוא נתוני דגימות</span> עבור\n<a href=\"~a\">Audacity</a>, מאת Steve\nDaulton",
+   [
+    "Steve",
+    "Daulton"
+   ]
+  ],
+  [
+   "Error:~%~\n              The file must contain only plain ASCII text.~%~\n              (Invalid byte ‘~a’ at byte number: ~a)",
+   "שגיאה:~%~\n              הקובץ חייב להכיל טקסט ASCII פשוט בלבד.~%~\n              (בייט לא תקין ‘~a’ במספר בייט: ~a)",
+   [
+    "ASCII"
+   ]
+  ],
+  [
+   "Error~%~\n              Data must be numbers in plain ASCII text.~%~\n              ‘~a’ is not a numeric value.",
+   "שגיאה~%~\n              הנתונים חייבים להיות מספרים בטקסט ASCII פשוט.~%~\n              ‘~a’ אינו ערך מספרי.",
+   [
+    "ASCII"
+   ]
+  ],
+  [
+   "Edgar-RFT and Steve Daulton",
+   "Edgar-RFT ו־Steve Daulton",
+   [
+    "Edgar",
+    "RFT",
+    "Steve",
+    "Daulton"
+   ]
+  ],
+  [
+   "Paulstretch is only for an extreme time-stretch or “stasis” effect",
+   "Paulstretch מיועד רק למתיחת זמן קיצונית או לאפקט ״קיפאון״",
+   [
+    "Paulstretch"
+   ]
+  ],
+  [
+   "Remove DC offset",
+   "הסרת היסט DC",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Removes DC offset (centers audio on 0.0 vertically)",
+   "מסיר היסט DC (ממרכז את השמע סביב 0.0)",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Removing DC offset…\n",
+   "מסיר רכיב DC…\n",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Vocal II",
+   "שירה II",
+   [
+    "II"
+   ]
+  ],
+  [
+   "Remove DC offset (center on 0.0 vertically)",
+   "הסרת היסט DC (מרכוז סביב 0.0)",
+   [
+    "DC"
+   ]
+  ],
+  [
+   "Internal error in %1 at %2 line %3.\nPlease inform the Audacity team at https://forum.audacityteam.org/.",
+   "שגיאה פנימית ב־%1 בקובץ %2 שורה %3.\nנא ליידע את צוות Audacity בכתובת https://forum.audacityteam.org/.",
+   [
+    "https",
+    "forum",
+    "audacityteam",
+    "org"
+   ]
+  ],
+  [
+   "Internal error at %1 line %2.\nPlease inform the Audacity team at https://forum.audacityteam.org/.",
+   "שגיאה פנימית בקובץ %1 שורה %2.\nנא ליידע את צוות Audacity בכתובת https://forum.audacityteam.org/.",
+   [
+    "https",
+    "forum",
+    "audacityteam",
+    "org"
+   ]
+  ],
+  [
+   "The temporary files directory is on a FAT formatted drive.\nResetting to default location.",
+   "תיקיית הקבצים הזמניים נמצאת בכונן בפורמט FAT.\nמאפס למיקום ברירת המחדל.",
+   [
+    "FAT"
+   ]
+  ],
+  [
+   "%Ln byte(s)",
+   "%Ln בייט %Ln בייטים",
+   [
+    "Ln",
+    "Ln"
+   ]
+  ],
+  [
+   "“%1” is a Windows Media Audio file. \nAudacity cannot open this type of file due to patent restrictions. \nYou need to convert it to a supported audio format, such as WAV or AIFF.",
+   "“%1” הוא קובץ Windows Media Audio. \nלא ניתן לפתוח קובץ מסוג זה ב־Audacity בגלל מגבלות פטנט. \nיש להמיר אותו לפורמט שמע נתמך, כגון WAV או AIFF.",
+   [
+    "Windows",
+    "Media",
+    "Audio"
+   ]
+  ],
+  [
+   "“%1” is an Advanced Audio Coding file.\nWithout the optional FFmpeg library, Audacity cannot open this type of file.\nOtherwise, you need to convert it to a supported audio format, such as WAV or AIFF.",
+   "“%1” הוא קובץ Advanced Audio Coding.\nבלי ספריית FFmpeg האופציונלית, לא ניתן לפתוח קובץ מסוג זה ב־Audacity.\nאחרת, יש להמיר אותו לפורמט שמע נתמך, כגון WAV או AIFF.",
+   [
+    "Advanced",
+    "Audio",
+    "Coding"
+   ]
+  ],
+  [
+   "“%1” is a Wavpack audio file. \nAudacity cannot open this type of file. \nYou need to convert it to a supported audio format, such as WAV or AIFF.",
+   "“%1” הוא קובץ שמע Wavpack. \nלא ניתן לפתוח קובץ מסוג זה ב־Audacity. \nיש להמיר אותו לפורמט שמע נתמך, כגון WAV או AIFF.",
+   [
+    "Wavpack"
+   ]
+  ],
+  [
+   "“%1” is a Dolby Digital audio file. \nAudacity cannot currently open this type of file. \nYou need to convert it to a supported audio format, such as WAV or AIFF.",
+   "“%1” הוא קובץ Dolby Digital. \nלא ניתן לפתוח קובץ מסוג זה ב־Audacity כעת. \nיש להמיר אותו לפורמט שמע נתמך, כגון WAV או AIFF.",
+   [
+    "Dolby",
+    "Digital"
+   ]
+  ],
+  [
+   "Opus (OggOpus) Files (FFmpeg)",
+   "קובצי Opus (OggOpus) (FFmpeg)",
+   [
+    "OggOpus"
+   ]
+  ],
+  [
+   "Vbr Mode",
+   "מצב VBR",
+   [
+    "VBR"
+   ]
+  ],
+  [
+   "The codec reported a generic error (EPERM)",
+   "הקודק דיווח על שגיאה כללית (EPERM)",
+   [
+    "EPERM"
+   ]
+  ],
+  [
+   "The codec reported an invalid parameter (EINVAL)",
+   "הקודק דיווח על פרמטר לא תקין (EINVAL)",
+   [
+    "EINVAL"
+   ]
+  ],
+  [
+   "FFmpeg : ERROR - Can’t allocate buffer to read into from audio FIFO.",
+   "FFmpeg : שגיאה — לא ניתן להקצות מאגר לקריאה מ־FIFO השמע.",
+   [
+    "FIFO"
+   ]
+  ],
+  [
+   "FFmpeg : ERROR - nAudioFrameSizeOut too large.",
+   "FFmpeg : שגיאה — nAudioFrameSizeOut גדול מדי.",
+   [
+    "nAudioFrameSizeOut"
+   ]
+  ],
+  [
+   "You are linking to lame_enc.dll v%1.%2. This version is not compatible with Audacity %3.%4.%5.\nPlease download the latest version of ‘LAME for Audacity’.",
+   "אתה מקשר ל־lame_enc.dll v%1.%2. גרסה זו אינה תואמת ל־Audacity %3.%4.%5.\nנא להוריד את הגרסה האחרונה של ‘LAME for Audacity’.",
+   [
+    "lame",
+    "enc",
+    "dll",
+    "for"
+   ]
+  ],
+  [
+   "Only lame_enc.dll",
+   "רק lame_enc.dll",
+   [
+    "lame",
+    "enc",
+    "dll"
+   ]
+  ],
+  [
+   "Only libmp3lame64bit.dylib",
+   "רק libmp3lame64bit.dylib",
+   [
+    "bit",
+    "dylib"
+   ]
+  ],
+  [
+   "Only libmp3lame.dylib",
+   "רק libmp3lame.dylib",
+   [
+    "lame",
+    "dylib"
+   ]
+  ],
+  [
+   "Only libmp3lame.so",
+   "רק libmp3lame.so",
+   [
+    "lame",
+    "so"
+   ]
+  ],
+  [
+   "Only libmp3lame.so.0",
+   "רק libmp3lame.so.0",
+   [
+    "lame",
+    "so"
+   ]
+  ],
+  [
+   "Exporting selected audio with VBR quality %1",
+   "מייצא את השמע הנבחר באיכות VBR %1",
+   [
+    "VBR"
+   ]
+  ],
+  [
+   "Exporting the audio with VBR quality %1",
+   "מייצא את השמע באיכות VBR %1",
+   [
+    "VBR"
+   ]
+  ],
+  [
+   "VBR Mode",
+   "מצב VBR",
+   [
+    "VBR"
+   ]
+  ],
+  [
+   "Unable to set VBR mode",
+   "לא ניתן לקבוע מצב VBR",
+   [
+    "VBR"
+   ]
+  ],
+  [
+   "Unable to set CVBR mode",
+   "לא ניתן לקבוע מצב CVBR",
+   [
+    "CVBR"
+   ]
+  ],
+  [
+   "You have attempted to Export a WAV or AIFF file which would be greater than 4GB.\nAudacity cannot do this, the Export was abandoned.",
+   "ניסית לייצא קובץ WAV או AIFF שגדול מ־4GB.\nלא ניתן לעשות זאת ב־Audacity, והייצוא הופסק.",
+   [
+    "GB"
+   ]
+  ],
+  [
+   "Error while writing %1 file (disk full?).\nLibsndfile says “%2”",
+   "שגיאה בכתיבת קובץ %1 (הדיסק מלא?).\nLibsndfile מוסר: “%2”",
+   [
+    "Libsndfile"
+   ]
+  ],
+  [
+   "Create Correction(.wvc) File",
+   "יצירת קובץ תיקון (.wvc)",
+   [
+    "wvc"
+   ]
+  ],
+  [
+   "Text file (*.txt)",
+   "קובץ טקסט (*.txt)",
+   [
+    "txt"
+   ]
+  ],
+  [
+   "SubRip text file (*.srt)",
+   "קובץ טקסט SubRip (*.srt)",
+   [
+    "srt"
+   ]
+  ],
+  [
+   "WebVTT file (*.vtt)",
+   "קובץ WebVTT (*.vtt)",
+   [
+    "vtt"
+   ]
+  ],
+  [
+   "Welcome to Mastering MuseScore – the most comprehensive resource for learning the world’s most popular music notation software! My name is Marc Sabatella, and I have been helping develop, support, and promote MuseScore since its initial release over ten years ago.\n\nWhether you are just getting started with music notation software, or are a power user eager to explore advanced engraving and playback techniques, my flagship online course Mastering MuseScore covers everything you need to know to get the most out of MuseScore.\n\nIn addition, Mastering MuseScore features a supportive community of musicians, with discussion spaces, live streams, and other related courses and services to help you create your best music. Take advantage of this opportunity to learn MuseScore from one of its most recognized experts!\n\n(Note: Mastering MuseScore is available in English only)",
+   "ברוכים הבאים ל־Mastering MuseScore — המשאב המקיף ביותר ללימוד תוכנת התווים הפופולרית בעולם! שמי Marc Sabatella, ואני מסייע בפיתוח, בתמיכה ובקידום של MuseScore מאז גרסתו הראשונה לפני יותר מעשר שנים.\n\nבין אם אתה רק מתחיל עם תוכנות תווים, ובין אם אתה משתמש מתקדם שרוצה לחקור טכניקות חריתה ונגינה מתקדמות, הקורס המקוון המוביל שלי, Mastering MuseScore, מכסה כל מה שצריך כדי להפיק את המרב מ־MuseScore.\n\nבנוסף, Mastering MuseScore מציע קהילה תומכת של מוזיקאים, עם מרחבי דיון, שידורים חיים וקורסים ושירותים נלווים שיעזרו לך ליצור את המוזיקה הטובה ביותר שלך. נצל את ההזדמנות ללמוד MuseScore מאחד המומחים המוכרים ביותר שלו!\n\n(הערה: Mastering MuseScore זמין באנגלית בלבד)",
+   [
+    "Marc",
+    "Sabatella"
+   ]
+  ],
+  [
+   "hh:mm:ss + film frames (24 fps)",
+   "hh:mm:ss + פריימים של סרט (24 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + NTSC drop frames",
+   "hh:mm:ss + פריימי NTSC עם דילוג",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + NTSC non-drop frames",
+   "hh:mm:ss + פריימי NTSC ללא דילוג",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + PAL frames (25 fps)",
+   "hh:mm:ss + פריימי PAL (25 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + CDDA frames (75 fps)",
+   "hh:mm:ss + פריימי CDDA (75 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + samples",
+   "hh:mm:ss + דגימות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + milliseconds",
+   "hh:mm:ss + מילי־שניות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + hundredths",
+   "hh:mm:ss + מאיות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "Publish your finished projects on Audio.com",
+   "פרסם את הפרויקטים המוגמרים שלך ב־Audio.com",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Upload project to audio.com…",
+   "העלאת הפרויקט ל־audio.com…",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Visit audio.com",
+   "ביקור ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "All saved changes will now update to the cloud.\nYou can manage this file from your updated projects page on audio.com",
+   "כל השינויים השמורים יתעדכנו כעת בענן.\nאפשר לנהל את הקובץ הזה מעמוד הפרויקטים המעודכן שלך ב־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Resuming sync to audio.com…",
+   "מחדש את הסנכרון עם audio.com…",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Unable to add ‘inset’ function (can’t verify blockids)",
+   "לא ניתן להוסיף את פונקציית ‘inset’ (לא ניתן לאמת את מזהי הבלוקים)",
+   [
+    "inset"
+   ]
+  ],
+  [
+   "Would you also like to share your music on Audio.com?",
+   "תרצה גם לשתף את המוזיקה שלך ב־Audio.com?",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Syncing with audio.com",
+   "מסנכרן עם audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Project is syncing with audio.com. Do you want to stop the sync process?",
+   "הפרויקט מסתנכרן עם audio.com. לעצור את תהליך הסנכרון?",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Share to audio.com",
+   "שיתוף ל־audio.com",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Uploads an uncompressed audio file and generates a shareable link. This link allows others to download the file in either .wav or .mp3 format.",
+   "מעלה קובץ שמע לא דחוס ויוצר קישור לשיתוף. הקישור מאפשר לאחרים להוריד את הקובץ בפורמט .wav או .mp3.",
+   [
+    "wav"
+   ]
+  ],
+  [
+   "Your project is backed up privately on audio.com. You can access your work from any device and collaborate on your project with others. Cloud saving is free for a limited number of projects.",
+   "הפרויקט שלך מגובה באופן פרטי ב־audio.com. אפשר לגשת לעבודה שלך מכל התקן ולשתף פעולה עם אחרים בפרויקט. שמירה בענן חינמית למספר מוגבל של פרויקטים.",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Log in or create a new account on Audio.com to share your music.",
+   "התחבר או צור חשבון חדש ב־Audio.com כדי לשתף את המוזיקה שלך.",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Unable to connect to Audio.com",
+   "לא ניתן להתחבר ל־Audio.com",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Publish to MuseScore.com",
+   "פרסום ב־MuseScore.com",
+   [
+    "com"
+   ]
+  ],
+  [
+   "Share on Audio.com",
+   "שיתוף ב־Audio.com",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Your audio.com account needs to be verified first. Please activate your account via the link in the activation email.",
+   "יש לאמת תחילה את חשבון ה־audio.com שלך. נא להפעיל את החשבון דרך הקישור בהודעת הדוא״ל לאימות.",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Audio.com returned an unknown error code: %1.",
+   "Audio.com החזיר קוד שגיאה לא ידוע: %1.",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Audio.com returned an unknown error code.",
+   "Audio.com החזיר קוד שגיאה לא ידוע.",
+   [
+    "Audio",
+    "com"
+   ]
+  ],
+  [
+   "Please try again later, or get help for this problem on audio.com.",
+   "נא לנסות שוב מאוחר יותר, או לקבל עזרה בנושא ב־audio.com.",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Could not connect to audio.com. Please check your internet connection or try again later.",
+   "לא ניתן להתחבר ל־audio.com. נא לבדוק את חיבור האינטרנט או לנסות שוב מאוחר יותר.",
+   [
+    "audio",
+    "com"
+   ]
+  ],
+  [
+   "Audacity is unable to connect to MuseHub.com. Please check your connection and try again.",
+   "Audacity אינו מצליח להתחבר ל־MuseHub.com. נא לבדוק את החיבור ולנסות שוב.",
+   [
+    "com"
+   ]
+  ],
+  [
+   "CD frames",
+   "פריימי CD",
+   [
+    "CD"
+   ]
+  ],
+  [
+   "Press Enter to select or deselect",
+   "לחץ Enter כדי לבחור או לבטל בחירה",
+   [
+    "Enter"
+   ]
+  ],
+  [
+   "MuseScore Studio shortcuts file",
+   "קובץ קיצורי הדרך של MuseScore Studio",
+   [
+    "Studio"
+   ]
+  ],
+  [
+   "CD frames",
+   "פריימי CD",
+   [
+    "CD"
+   ]
+  ],
+  [
+   "A malloc() failed",
+   "הקצאת זיכרון (malloc) נכשלה",
+   [
+    "malloc"
+   ]
+  ],
+  [
+   "2nd parameter to sqlite3_bind out of range",
+   "הפרמטר השני של sqlite3_bind מחוץ לטווח",
+   [
+    "bind"
+   ]
+  ],
+  [
+   "Close gap (ripple)",
+   "סגירת הרווח (ripple)",
+   [
+    "ripple"
+   ]
+  ],
+  [
+   "hh:mm:ss + hundredths",
+   "hh:mm:ss + מאיות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + milliseconds",
+   "hh:mm:ss + מילי־שניות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + samples",
+   "hh:mm:ss + דגימות",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + film frames (24 fps)",
+   "hh:mm:ss + פריימים של סרט (24 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + NTSC drop frames",
+   "hh:mm:ss + פריימי NTSC עם דילוג",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + NTSC non-drop frames",
+   "hh:mm:ss + פריימי NTSC ללא דילוג",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + PAL frames (25 fps)",
+   "hh:mm:ss + פריימי PAL (25 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "hh:mm:ss + CDDA frames (25 fps)",
+   "hh:mm:ss + פריימי CDDA (25 fps)",
+   [
+    "hh",
+    "mm",
+    "ss"
+   ]
+  ],
+  [
+   "Free up at least %1 MB of disk space and try again.",
+   "פנה לפחות %1 MB מקום בדיסק ונסה שוב.",
+   [
+    "MB"
+   ]
+  ],
+  [
+   "Open FX editor",
+   "פתיחת עורך ה־FX",
+   [
+    "FX"
+   ]
+  ]
+ ],
+ "glossary": [
+  [
+   "Show RMS in waveform",
+   "הצגת RMS בצורת הגל",
+   "\\bwaveform\\b"
+  ],
+  [
+   "Show clipping in waveform",
+   "הצגת קליפינג בצורת הגל",
+   "\\bwaveform\\b"
+  ],
+  [
+   "Show RMS in waveform",
+   "הצגת RMS בצורת הגל",
+   "\\bwaveform\\b"
+  ],
+  [
+   "Show clipping in waveform",
+   "הצגת קליפינג בצורת הגל",
+   "\\bwaveform\\b"
+  ],
+  [
+   "Hard clip -12dB, 80% make-up gain",
+   "קליפינג קשיח ‎-12dB, הגבר משלים 80%",
+   "\\bclips?\\b"
+  ],
+  [
+   "Soft clip -12dB, 80% make-up gain",
+   "קליפינג רך ‎-12dB, הגבר משלים 80%",
+   "\\bclips?\\b"
+  ],
+  [
+   "Your code looks like SAL syntax, but there is no ‘return’ statement.\nFor SAL, use a return statement such as:\n\treturn *track* * 0.1\nor for LISP, begin with an open parenthesis such as:\n\t(mult *track* 0.1)\n .",
+   "הקוד שלך נראה כמו תחביר SAL, אך אין בו הצהרת ‘return’.\nב־SAL יש להשתמש בהצהרת return כגון:\n\\treturn *track* * 0.1\nוב־LISP יש להתחיל בסוגר פותח, כגון:\n\\t(mult *track* 0.1)\n .",
+   "\\btracks?\\b"
+  ],
+  [
+   "Studio fade out",
+   "דעיכה אולפנית",
+   "\\bfade out\\b"
+  ],
+  [
+   "Clip fix",
+   "תיקון קליפינג",
+   "\\bclips?\\b"
+  ],
+  [
+   "Soft Clip",
+   "קליפינג רך",
+   "\\bclips?\\b"
+  ],
+  [
+   "Hard Clip",
+   "קליפינג קשיח",
+   "\\bclips?\\b"
+  ],
+  [
+   "The tracks you are attempting to merge to stereo contain clips at different positions, or otherwise mismatching clips. Merging them will render the tracks.\n\nThis causes any realtime effects to be applied to the waveform and hidden data to be removed. Additionally, the entire track will become one large clip.\n\nDo you wish to continue?",
+   "הרצועות שאתה מנסה למזג לסטריאו מכילות קטעים במיקומים שונים או קטעים שאינם תואמים. המיזוג ירנדר את הרצועות.\n\nהדבר יגרום להחלת אפקטים בזמן אמת על צורת הגל ולהסרת נתונים מוסתרים. בנוסף, הרצועה כולה תהפוך לקטע אחד גדול.\n\nלהמשיך?",
+   "\\bwaveform\\b"
+  ]
+ ],
+ "copy": [
+  [
+   "appshell",
+   "Audacity"
+  ],
+  [
+   "appshell-menu-scriptables1",
+   "Scriptables1"
+  ],
+  [
+   "appshell-menu-scriptables2",
+   "Scriptables2"
+  ],
+  [
+   "appshell/about",
+   "Audacity 4"
+  ],
+  [
+   "appshell/about",
+   "translator_credits"
+  ],
+  [
+   "appshell/about",
+   "Audacity"
+  ],
+  [
+   "appshell/preferences",
+   "VBL"
+  ],
+  [
+   "appshell/preferences",
+   "MEI"
+  ],
+  [
+   "appshell/preferences",
+   "MIDI"
+  ],
+  [
+   "appshell/preferences",
+   "MusicXML"
+  ],
+  [
+   "audio-unit",
+   "Audio Unit"
+  ],
+  [
+   "builtin-effects",
+   "RIAA"
+  ],
+  [
+   "builtin-effects",
+   "B-spline"
+  ],
+  [
+   "cloud",
+   "Audio.com"
+  ],
+  [
+   "effects",
+   "dB"
+  ],
+  [
+   "effects",
+   "Audacity"
+  ],
+  [
+   "effects",
+   "Nyquist"
+  ],
+  [
+   "effects-nyquist",
+   "Audacity"
+  ],
+  [
+   "effects-nyquist",
+   "Steve Daulton"
+  ],
+  [
+   "effects-nyquist",
+   "GNU General Public License v2.0"
+  ],
+  [
+   "effects-nyquist",
+   "Paul Licameli"
+  ],
+  [
+   "effects-nyquist",
+   "Dominic Mazzoni"
+  ],
+  [
+   "effects-nyquist",
+   "6 dB"
+  ],
+  [
+   "effects-nyquist",
+   "12 dB"
+  ],
+  [
+   "effects-nyquist",
+   "24 dB"
+  ],
+  [
+   "effects-nyquist",
+   "36 dB"
+  ],
+  [
+   "effects-nyquist",
+   "48 dB"
+  ],
+  [
+   "effects-nyquist",
+   "David R.Sky"
+  ],
+  [
+   "effects-nyquist",
+   "Steven Jones"
+  ],
+  [
+   "effects-nyquist",
+   "dB"
+  ],
+  [
+   "effects-nyquist",
+   "[-inf]"
+  ],
+  [
+   "effects-paulstretch",
+   "Paulstretch"
+  ],
+  [
+   "effects/graphiceq",
+   "%1 Hz"
+  ],
+  [
+   "effects/loudness",
+   "RMS"
+  ],
+  [
+   "effects/paulstretch",
+   "Paulstretch"
+  ],
+  [
+   "effects/units",
+   "Hz"
+  ],
+  [
+   "effects/units",
+   "kHz"
+  ],
+  [
+   "effects/units",
+   "dB"
+  ],
+  [
+   "export",
+   "LPC"
+  ],
+  [
+   "export",
+   "LPC %1"
+  ],
+  [
+   "global",
+   "dB"
+  ],
+  [
+   "global",
+   "Hz"
+  ],
+  [
+   "global",
+   "%1 GB"
+  ],
+  [
+   "global",
+   "%1 MB"
+  ],
+  [
+   "global",
+   "%1 KB"
+  ],
+  [
+   "import-export",
+   "LC"
+  ],
+  [
+   "import-export",
+   "LTP"
+  ],
+  [
+   "import-export",
+   "%1 kbps"
+  ],
+  [
+   "import-export",
+   "2.5 ms"
+  ],
+  [
+   "import-export",
+   "5 ms"
+  ],
+  [
+   "import-export",
+   "10 ms"
+  ],
+  [
+   "import-export",
+   "20 ms"
+  ],
+  [
+   "import-export",
+   "40 ms"
+  ],
+  [
+   "import-export",
+   "60 ms"
+  ],
+  [
+   "import-export",
+   "VOIP"
+  ],
+  [
+   "import-export",
+   "MPEG2"
+  ],
+  [
+   "import-export",
+   "MPEG1"
+  ],
+  [
+   "import-export",
+   "200-250 kbps"
+  ],
+  [
+   "import-export",
+   "170-210 kbps"
+  ],
+  [
+   "import-export",
+   "155-195 kbps"
+  ],
+  [
+   "import-export",
+   "145-185 kbps"
+  ],
+  [
+   "import-export",
+   "110-150 kbps"
+  ],
+  [
+   "import-export",
+   "95-135 kbps"
+  ],
+  [
+   "import-export",
+   "80-120 kbps"
+  ],
+  [
+   "import-export",
+   "65-105 kbps"
+  ],
+  [
+   "import-export",
+   "%1 kbit/s"
+  ],
+  [
+   "import-export",
+   "AIFF (Apple/SGI)"
+  ],
+  [
+   "import-export",
+   "WAV (Microsoft)"
+  ],
+  [
+   "import-export",
+   "%1 bps"
+  ],
+  [
+   "learn",
+   "Marc Sabatella"
+  ],
+  [
+   "learn",
+   "Mastering MuseScore"
+  ],
+  [
+   "navigation",
+   "Escape"
+  ],
+  [
+   "numeric-formats",
+   "dd:hh:mm:ss"
+  ],
+  [
+   "numeric-formats",
+   "010,01000>0100 Hz"
+  ],
+  [
+   "numeric-formats",
+   "kHz"
+  ],
+  [
+   "numeric-formats",
+   "01000>01000 kHz|0.001"
+  ],
+  [
+   "numeric-formats",
+   "hh:mm:ss"
+  ],
+  [
+   "numeric-formats",
+   "Hz"
+  ],
+  [
+   "playback",
+   "RMS"
+  ],
+  [
+   "preferences",
+   "%1 GB"
+  ],
+  [
+   "spectrogram/preferences",
+   "Mel"
+  ],
+  [
+   "spectrogram/preferences",
+   "ERB"
+  ],
+  [
+   "spectrogram/preferences",
+   "Hz"
+  ],
+  [
+   "strings",
+   "%1 KB"
+  ],
+  [
+   "strings",
+   "%1 MB"
+  ],
+  [
+   "strings",
+   "%1 GB"
+  ],
+  [
+   "trackcontextmenu",
+   "%1 Hz"
+  ],
+  [
+   "uicomponents",
+   "Hz"
+  ],
+  [
+   "uicomponents",
+   "kHz"
+  ],
+  [
+   "uicomponents",
+   "hh:mm:ss"
+  ],
+  [
+   "uicomponents",
+   "dd:hh:mm:ss"
+  ],
+  [
+   "vst3",
+   "VST3"
+  ]
+ ]
+}

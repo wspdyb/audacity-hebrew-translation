@@ -1,0 +1,8 @@
+/src/
+audacity-sources-4.0.1.tar.xz
+__pycache__/
+he/qa_out.txt
+he/po_batches/
+he/batches/
+he/po_tsv/
+*.pyc

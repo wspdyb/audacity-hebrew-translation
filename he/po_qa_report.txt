@@ -1,0 +1,8 @@
+active entries: 4443
+translated: 4443
+untranslated: 0
+fuzzy: 0
+empty: 0
+placeholder: 0
+newline: 0
+no_hebrew: 0
